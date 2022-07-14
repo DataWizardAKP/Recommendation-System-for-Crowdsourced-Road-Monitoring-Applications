@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayan Kumar Panja
-- 👀 I’m interested in ...
+- 👀 I have working knowledge on Python, Matlab, Java, C,C++ and php
 - 🌱 I’m currently doing my PhD work.
 - 💞️ I’m looking to collaborate in the domain of Indoor Positioning and Sensor Cloud Technology
 - 📫 You can reach me at ayanpanja1992@gmail.com
