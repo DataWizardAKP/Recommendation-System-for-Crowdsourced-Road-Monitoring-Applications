@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Ayan Kumar Panja
-- 👀 I have working knowledge on Python, Matlab, Java, C,C++ and php
-- 🌱 I’m currently doing my PhD work.
-- 💞️ I’m looking to collaborate in the domain of Indoor Positioning and Sensor Cloud Technology
-- 📫 You can reach me at ayanpanja1992@gmail.com
+- 👋 Recommendation-System-for-Crowdsourced-Road-Monitoring-Applications
+The development process has been carried out using the following stack:
+–	MongoDB - document database
+–	Express(.js) - Node.js web framework
+–	React(.js) - a client-side JavaScript framework
+–	Node(.js) - the premier JavaScript web server
 
 <!---
 Blitz123/Blitz123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
