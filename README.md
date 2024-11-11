@@ -1,9 +1,9 @@
 - 👋 Recommendation-System-for-Crowdsourced-Road-Monitoring-Applications
 The development process has been carried out using the following stack:
-–	MongoDB - document database
-–	Express(.js) - Node.js web framework
-–	React(.js) - a client-side JavaScript framework
-–	Node(.js) - the premier JavaScript web server
+–	MongoDB - document database <br\>
+–	Express(.js) - Node.js web framework <br\>
+–	React(.js) - a client-side JavaScript framework <br\>
+–	Node(.js) - the premier JavaScript web server <br\>
 
 <!---
 Blitz123/Blitz123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
